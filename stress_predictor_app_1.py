@@ -240,8 +240,6 @@ model, scaler = load_model()
 
 # ============================================================
 # DROPDOWN OPTIONS WITH EMOJIS
-# Each list is used in st.selectbox()
-# The emojis make it feel interactive and fun
 # ============================================================
 
 # General frequency scale - used for most questions
