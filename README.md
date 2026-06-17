@@ -14,7 +14,7 @@ Built for students. Designed to feel human.
 
 ## 🚀 Live Demo
 
-**Live Demo:** https://student-burnout-predictor-d9gr93cavnyrhrcruyznqi.streamlit.app/
+**App:** https://student-burnout-predictor-d9gr93cavnyrhrcruyznqi.streamlit.app/
 
 ---
 
