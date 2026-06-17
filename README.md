@@ -14,9 +14,7 @@ Built for students. Designed to feel human.
 
 ## 🚀 Live Demo
 
-👉 **[Try MindCheck here](https://student-burnout-predictor-d9gr93cavnyrhrcruyznqi.streamlit.app/)**
-
-No sign-up. No installation. Just open and use.
+**Live Demo:** https://student-burnout-predictor-d9gr93cavnyrhrcruyznqi.streamlit.app/
 
 ---
 
